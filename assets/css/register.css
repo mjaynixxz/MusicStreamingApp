@@ -20,7 +20,7 @@ html::-webkit-scrollbar {
 }
 
 * {
-  font-family: var(--font);
+  font-family: var(--fontStyle);
 }
 
 #background {
